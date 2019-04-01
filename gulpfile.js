@@ -75,6 +75,7 @@ const currencies = [
   'GBP',          // British Pound
   'USD',          // US Dollar
   'INR',          // Indian Rupees
+  'SGD',          // Singapore Dollar
 
 ];
 
